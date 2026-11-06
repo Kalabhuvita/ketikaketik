@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=Ketikaketik
+GenericName=Markdown Editor
+Comment=Markdown editor for writing novels
+Exec=/home/ayam/.local/bin/ketikaketik %F
+Icon=ketikaketik
+Terminal=false
+Categories=Office;TextEditor;Utility;
+Keywords=markdown;novel;writer;editor;tulis;
+StartupWMClass=ketikaketik
+MimeType=text/markdown;
